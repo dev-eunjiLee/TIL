@@ -6,4 +6,8 @@
 1. 각 폴더마다 각 폴더명.md 파일이 개요 역할을 한다.
 
 ### 추가로 공부해야 하는 것들
-pure function(JS/RxJS.md)
+- enum, union type(enum을 지양해야하는 이유)
+  - https://velog.io/@kbm940526/Typescript-object-key-type
+  - https://handhand.tistory.com/277
+  - https://engineering.linecorp.com/ko/blog/typescript-enum-tree-shaking
+- pure function(JS/RxJS.md)
