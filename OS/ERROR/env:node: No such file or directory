@@ -1,0 +1,16 @@
+### 참고 링크
+
+- 블로그
+  - [env: node: No such file or directory](https://puture.tistory.com/431)
+
+---
+
+node 버전 추가한 후 삭제고 나 node 버전을 선택하지 않으면 yarn cli를 바로 사용할 수 없었고, node 버전을 선택하더라도 계속 풀렸음
+
+==> 위 링크에 나온 아래 명령어를 그대로 복사해서 돌렸더니 정상 동작함
+
+```
+curl -ksO https://gist.githubusercontent.com/nicerobot/2697848/raw/uninstall-node.shbrew install nodebrew reinstall node
+brew install node
+brew reinstall node
+```
