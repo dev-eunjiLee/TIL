@@ -12,8 +12,7 @@
   - Go의 장점
   - 시간복잡도
   - 자료구조
-    - 그래프 VS 트리 차이
-      - 트리 구조 저장하는 방식 중 클로저 테이블(자료구조/tree.md)
+    - 트리 구조 저장하는 방식 중 클로저 테이블(자료구조/tree.md)
   - 뮤테이션에서 조심해야하는 것
   - Http, Https 차이
   - 암호화방식
@@ -21,6 +20,7 @@
   - 투포인트 알고리즘
   - graphql N+1 문제
   - OSI 7계층, TCP/IP 4계층
+  - foreach 동기, 비동기
 - enum, union type(enum을 지양해야하는 이유)
   - https://velog.io/@kbm940526/Typescript-object-key-type
   - https://handhand.tistory.com/277
