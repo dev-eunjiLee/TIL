@@ -8,7 +8,7 @@
 
 ### 추가로 공부해야 하는 것들
 
-- rxjs of
+- rxjs of(링크: https://iamsjy17.github.io/rxjs/2020/10/07/inside-rxjs-creation-fn-etc1.html)
 - 면접 시 답변 못한 내용
   - Go의 장점
   - 시간복잡도
